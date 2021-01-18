@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Евгений Хусаинов](https://up.htmlacademy.ru/htmlcss/30/user/1599167).
-* Наставник: `Артем Шомин`.
+* Наставник: [Артем Шомин](https://htmlacademy.ru/profile/sirnet).
 
 ---
 
